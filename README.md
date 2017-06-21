@@ -1,4 +1,8 @@
-# NumericalMethods
-// Numerical Methods for Financial Applications 
-// Monte Carlo Pricing 
-// Finite Difference Methods 
+## NumericalMethods
+# Numerical Methods for Financial Applications 
+
+Monte Carlo Pricing 
+
+Finite Difference Methods 
+
+Matrix Class 
